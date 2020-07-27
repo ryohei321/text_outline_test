@@ -7,7 +7,7 @@ const d = 3; //重ねる数
 //1重目
 const a1 = 10; //配置する角度の間隔
 const r1 = 8; //配置する半径（太さ）
-const b1 = 1; //ぼかし
+const b1 = 0; //ぼかし
 const ox1 = 2; //オフセットx
 const oy1 = 2; //オフセットy
 const c1 = "#e95098"; //色
@@ -16,7 +16,7 @@ const c1 = "#e95098"; //色
 //2重目
 const a2 = 7; //配置する角度の間隔
 const r2 = 13; //配置する半径（太さ）
-const b2 = 1; //ぼかし
+const b2 = 0; //ぼかし
 const ox2 = 2; //オフセットx
 const oy2 = 2; //オフセットy
 const c2 = "#fff"; //色
@@ -24,7 +24,7 @@ const c2 = "#fff"; //色
 //3重目
 const a3 = 20; //配置する角度の間隔
 const r3 = 20; //配置する半径（太さ）
-const b3 = 6; //ぼかし
+const b3 = 0; //ぼかし
 const ox3 = 6; //オフセットx
 const oy3 = 6; //オフセットy
 const c3 = "#000"; //色
