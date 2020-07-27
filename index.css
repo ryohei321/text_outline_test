@@ -1,6 +1,9 @@
 body {
     padding: 0;
     margin: 0;
+    font-family: fot-seurat-pron, sans-serif;
+    font-weight: 600;
+    font-style: normal;
 }
 
 .bg {
@@ -40,6 +43,7 @@ button {
     border-style: none;
     background: #fff;
 }
+
 button:focus {
-	outline:0;
+    outline: 0;
 }
