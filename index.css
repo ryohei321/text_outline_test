@@ -1,3 +1,8 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
 .bg {
     position: relative;
     background-color: rgb(77, 77, 77);
