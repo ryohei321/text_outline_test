@@ -30,6 +30,7 @@ button {
     transform: translateX(-50%);
     border-radius: 50px;
     border-style: none;
+    background: #fff;
 }
 button:focus {
 	outline:0;
