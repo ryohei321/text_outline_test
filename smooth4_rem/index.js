@@ -81,7 +81,7 @@ function listCircles() {
             const x =ox + r * Math.cos(a * i * (Math.PI / 180));
             const y =oy + r * Math.sin(a * i * (Math.PI / 180));
 
-            str += orgRound(x, 100) + "rem " +  orgRound(y, 100) + "rem " + b + "rem " + c + ", ";
+            str += x + "rem " +  y + "rem " + b + "rem " + c + ", ";
             //console.log(str);
         };
         console.log("d");
