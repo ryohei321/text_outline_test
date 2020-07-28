@@ -4,7 +4,6 @@ body {
     font-family: fot-seurat-pron, sans-serif;
     font-weight: 600;
     font-style: normal;
-    -webkit-font-smoothing: antialiased;
 }
 
 .bg {
@@ -12,7 +11,7 @@ body {
     background-color: rgb(77, 77, 77);
     width: 375px;
     height: 500px;
-    font-size: 40px;
+    font-size: 22px;
     font-weight: bold;
     margin: 0;
     margin: 0 auto;
